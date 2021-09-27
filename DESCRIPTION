@@ -9,7 +9,7 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: We all deserve a little encouragement sometime
   to keep us going (Plus Eltra!). This package aim to deliver
-  a little praise whenever you need them.
+  a little praise whenever you need them. :)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
